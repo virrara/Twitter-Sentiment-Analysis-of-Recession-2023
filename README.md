@@ -21,19 +21,13 @@ The project follows a systematic workflow:
 
 ## 📸 Visualizations  
 
-### Word Cloud & Data Distribution Diagram  
+| ![Word Cloud](https://github.com/user-attachments/assets/56202395-9b07-4686-a720-81d8908d0827) | ![Diagram](https://github.com/user-attachments/assets/4a84f85f-a3fe-43ca-97a6-66dd380b2253) |  
+|:---:|:---:|  
+| **Word Cloud** | **Data Distribution Diagram** |  
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/56202395-9b07-4686-a720-81d8908d0827" alt="Word Cloud" width="45%">
-  <img src="https://github.com/user-attachments/assets/4a84f85f-a3fe-43ca-97a6-66dd380b2253" alt="Diagram" width="45%">
-</p>
-
-### Confusion Matrix & ROC Curve  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8d4f76b0-cde8-4b22-9235-ed1dc8078795" alt="Confusion Matrix" width="45%">
-  <img src="https://github.com/user-attachments/assets/4e9dcc9e-70ba-4209-b396-37b676f71c0e" alt="ROC Curve" width="45%">
-</p> 
+| ![Confusion Matrix](https://github.com/user-attachments/assets/8d4f76b0-cde8-4b22-9235-ed1dc8078795) | ![ROC Curve](https://github.com/user-attachments/assets/4e9dcc9e-70ba-4209-b396-37b676f71c0e) |  
+|:---:|:---:|  
+| **Confusion Matrix** | **ROC Curve** |  
 
 ---
 
